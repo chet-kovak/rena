@@ -1,0 +1,129 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="2400" height="2400" id="svg2" version="1.1" inkscape:version="0.48.3.1 r9886" sodipodi:docname="Dart Tiles (copy).svg">
+  <defs id="defs4"/>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.2225" inkscape:cx="1200" inkscape:cy="1200" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="true" inkscape:object-nodes="false" inkscape:object-paths="false" inkscape:snap-intersection-paths="false" inkscape:window-width="1364" inkscape:window-height="698" inkscape:window-x="0" inkscape:window-y="0" inkscape:window-maximized="1" showguides="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0">
+    <inkscape:grid type="xygrid" id="grid2985" empspacing="8" visible="true" enabled="false" snapvisiblegridlinesonly="true" spacingx="16px" spacingy="16px" originx="1710.3862px" originy="1649.7699px"/>
+  </sodipodi:namedview>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Main" inkscape:groupmode="layer" id="layer1" transform="translate(688.00026,659.63819)">
+    <g id="g3422">
+      <use height="1024" width="1024" transform="matrix(-0.30901699,-0.95105652,0.95105652,-0.30901699,156.30173,859.17587)" id="use3170" xlink:href="#g3157" y="0" x="0"/>
+      <use x="0" y="0" xlink:href="#g3157" id="use3188" transform="matrix(-0.809017,-0.58778525,-0.58778525,0.809017,925.12657,300.59184)" width="1024" height="1024"/>
+      <use height="1024" width="1024" transform="matrix(-0.809017,0.58778525,0.58778525,0.809017,533.36328,-301.30023)" id="use3190" xlink:href="#g3157" y="0" x="0"/>
+    </g>
+    <use x="0" y="0" xlink:href="#g3422" id="use3427" transform="matrix(0.309017,0.95105651,-0.95105651,0.309017,867.69827,-113.55981)" width="1024" height="1024"/>
+    <use height="1024" width="1024" transform="matrix(-0.809017,0.58778525,-0.58778525,-0.809017,1243.8336,676.57832)" id="use3429" xlink:href="#g3422" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#g3422" id="use3431" transform="matrix(-0.809017,-0.58778525,0.58778525,-0.809017,608.59977,1278.4704)" width="1024" height="1024"/>
+    <use height="1024" width="1024" transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,-160.13163,860.322)" id="use3433" xlink:href="#g3422" y="0" x="0"/>
+    <g id="g3441" inkscape:transform-center-x="-318.70683" inkscape:transform-center-y="-438.66251">
+      <use x="0" y="0" xlink:href="#g3157" id="use3276" transform="matrix(-0.309017,-0.95105651,-0.95105651,0.309017,1305.8669,485.65952)" width="1024" height="1024"/>
+      <use height="1024" width="1024" transform="translate(318.707,-231.55421)" id="use3278" xlink:href="#g3157" y="0" x="0"/>
+      <use x="0" y="0" xlink:href="#g3157" id="use3394" transform="matrix(-0.80901699,0.58778526,-0.58778526,-0.80901699,1440.8051,70.361686)" width="1024" height="1024"/>
+      <use x="0" y="0" xlink:href="#g3157" id="use3404" transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,355.54703,485.65969)" width="1024" height="1024"/>
+      <use height="1024" width="1024" transform="matrix(-0.809017,-0.58778525,0.58778525,-0.809017,1049.0417,672.25381)" id="use3439" xlink:href="#g3157" y="0" x="0"/>
+    </g>
+    <use x="0" y="0" xlink:href="#g3441" inkscape:transform-center-x="318.7069" inkscape:transform-center-y="-438.66247" id="use3460" transform="matrix(0.309017,-0.95105651,0.95105651,0.309017,-160.13167,860.32202)" width="1024" height="1024"/>
+    <use height="1024" width="1024" transform="matrix(-0.80901699,-0.58778526,0.58778526,-0.80901699,608.59979,1278.4704)" id="use3462" inkscape:transform-center-y="167.55413" inkscape:transform-center-x="515.67864" xlink:href="#g3441" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#g3441" inkscape:transform-center-y="542.21651" id="use3464" transform="matrix(-0.809017,0.58778525,-0.58778525,-0.809017,1243.8336,676.57828)" width="1024" height="1024"/>
+    <use height="1024" width="1024" transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,867.6982,-113.5598)" id="use3466" inkscape:transform-center-y="167.55412" xlink:href="#g3441" y="0" x="0" inkscape:transform-center-x="-515.67854"/>
+    <g id="g6401">
+      <g id="g5094">
+        <use x="0" y="0" xlink:href="#g3157" id="use5090" transform="matrix(0.309017,-0.95105651,0.95105651,0.309017,-160.13162,860.322)" width="1024" height="1024"/>
+        <use height="1024" width="1024" transform="matrix(-0.80901699,-0.58778526,0.58778526,-0.80901699,608.59977,1278.4704)" id="use5092" xlink:href="#g3157" y="0" x="0"/>
+      </g>
+      <use height="1024" width="1024" transform="matrix(-0.80901699,-0.58778526,0.58778526,-0.80901699,608.59979,1278.4704)" id="use5098" xlink:href="#g5094" y="0" x="0"/>
+      <g id="g3157">
+        <g id="Kite">
+          <path style="fill:#f4f4f4;fill-opacity:1;stroke:none" d="M 436.76348,436.80801 390.26476,500.808 512,540.36218 l 0,-128 z" id="path4226" inkscape:connector-curvature="0"/>
+          <path sodipodi:end="4.712389" sodipodi:start="3.4557519" transform="translate(0,156.36218)" d="M 481.56619,374.11146 C 485.85017,360.92673 498.13676,352 512,352 l 0,32 z" sodipodi:ry="32" sodipodi:rx="32" sodipodi:cy="384" sodipodi:cx="512" id="path4222" style="fill:#606060;fill-opacity:1;fill-rule:evenodd;stroke:none" sodipodi:type="arc"/>
+          <path sodipodi:type="arc" style="fill:#606060;fill-opacity:1;fill-rule:evenodd;stroke:none" id="path4224" sodipodi:cx="512" sodipodi:cy="384" sodipodi:rx="32" sodipodi:ry="32" d="m 542.43381,374.11145 c 5.46129,16.80813 -3.73714,34.86107 -20.54526,40.32236 -9.74202,3.16537 -20.41063,1.47563 -28.69768,-4.54527 L 512,384 z" transform="translate(-75.23652,52.808013)" sodipodi:start="5.969026" sodipodi:end="8.4823002"/>
+          <path transform="translate(0,28.362183)" inkscape:connector-curvature="0" id="path3440" d="M 436.76348,408.44583 390.26476,472.44582 512,512 512,384 z" style="fill:none;stroke:#cecece;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20;stroke-opacity:1;stroke-dasharray:none"/>
+        </g>
+        <g id="Dart" transform="matrix(0.809017,0.58778525,-0.58778525,0.809017,415.40023,-197.74606)">
+          <path transform="translate(0,28.362183)" inkscape:connector-curvature="0" id="path4234" d="m 436.76348,408.44583 -46.49872,63.99999 0,-128 L 512,384 z" style="fill:#f4f4f4;fill-opacity:1;stroke:none" sodipodi:nodetypes="ccccc"/>
+          <path sodipodi:end="3.4557519" sodipodi:start="2.8274334" transform="translate(0,28.362183)" d="m 481.56619,393.88854 c -2.08825,-6.42699 -2.08825,-13.35009 0,-19.77708 L 512,384 z" sodipodi:ry="32" sodipodi:rx="32" sodipodi:cy="384" sodipodi:cx="512" id="path4218" style="fill:#606060;fill-opacity:1;fill-rule:evenodd;stroke:none" sodipodi:type="arc"/>
+          <path sodipodi:type="arc" style="fill:#606060;fill-opacity:1;fill-rule:evenodd;stroke:none" id="path4220" sodipodi:cx="512" sodipodi:cy="384" sodipodi:rx="32" sodipodi:ry="32" d="m 512,352 c 6.75774,0 13.342,2.13936 18.80913,6.11146 L 512,384 z" transform="translate(-121.73524,116.808)" sodipodi:start="4.712389" sodipodi:end="5.3407075"/>
+          <path sodipodi:nodetypes="ccccc" style="fill:none;stroke:#cecece;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:20;stroke-opacity:1;stroke-dasharray:none" d="m 436.76348,408.44583 -46.49872,63.99999 0,-128 L 512,384 z" id="path4210" inkscape:connector-curvature="0" transform="translate(0,28.362183)"/>
+        </g>
+        <use x="0" y="0" xlink:href="#Kite" id="use4242" transform="matrix(0.309017,0.95105651,-0.95105651,0.309017,867.69827,-113.55985)" width="1024" height="1024"/>
+      </g>
+    </g>
+    <use height="1024" width="1024" transform="matrix(0.80901699,0.58778526,-0.58778526,0.80901699,96.693171,-301.29998)" id="use5100" xlink:href="#g5094" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#g5094" id="use5102" transform="matrix(-0.30901699,0.95105652,-0.95105652,-0.30901699,1184.1317,-114.70607)" width="1024" height="1024"/>
+    <use height="1024" width="1024" transform="matrix(-1,0,0,-1,1342.7071,977.17014)" id="use5104" xlink:href="#g5094" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#g5094" id="use5106" transform="matrix(-0.309017,-0.95105651,0.95105651,-0.309017,353.27354,1465.3926)" width="1024" height="1024"/>
+    <use height="1024" width="1024" transform="matrix(0.80901699,-0.58778526,0.58778526,0.80901699,-416.80512,675.25452)" id="use5108" xlink:href="#g5094" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#g5094" id="use5142" transform="matrix(-0.80901699,-0.58778526,0.58778526,-0.80901699,805.57161,1884.6869)" width="1024" height="1024" inkscape:transform-center-x="-257.83937" inkscape:transform-center-y="625.99358"/>
+    <use height="1024" width="1024" transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,355.54682,1234.9846)" id="use5144" xlink:href="#g5094" y="0" x="0" inkscape:transform-center-x="-515.67843" inkscape:transform-center-y="438.66257"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use5146" transform="matrix(-0.80901699,0.58778526,-0.58778526,-0.80901699,1516.0419,1051.2409)" width="1024" height="1024" inkscape:transform-center-x="-295.45758" inkscape:transform-center-y="438.66261"/>
+    <use inkscape:transform-center-y="438.66247" inkscape:transform-center-x="515.67856" height="1024" width="1024" transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,-675.81017,1234.9845)" id="use5202" xlink:href="#g5094" y="0" x="0"/>
+    <use inkscape:transform-center-y="625.99353" inkscape:transform-center-x="257.83947" x="0" y="0" xlink:href="#g5094" id="use5204" transform="translate(-196.97183,606.21642)" width="1024" height="1024"/>
+    <use inkscape:transform-center-y="438.6625" inkscape:transform-center-x="295.45768" height="1024" width="1024" transform="matrix(-0.809017,-0.58778525,0.58778525,-0.809017,336.39154,1653.1329)" id="use5206" xlink:href="#g3157" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#g5094" id="use5208" transform="translate(-515.67858,-374.66241)" width="1024" height="1024" inkscape:transform-center-x="576.54623" inkscape:transform-center-y="-354.88529"/>
+    <use height="1024" width="1024" transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,230.28458,-113.5601)" id="use5210" xlink:href="#g5094" y="0" x="0" inkscape:transform-center-x="675.032" inkscape:transform-center-y="-51.777259"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use5212" transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,-600.57381,717.21359)" width="1024" height="1024" inkscape:transform-center-x="538.92808" inkscape:transform-center-y="-155.33133"/>
+    <use inkscape:transform-center-y="-657.99365" inkscape:transform-center-x="-159.3534" height="1024" width="1024" transform="matrix(0.309017,0.95105651,-0.95105651,0.309017,1064.67,-719.77646)" id="use5214" xlink:href="#g5094" y="0" x="0"/>
+    <use inkscape:transform-center-y="-657.99363" inkscape:transform-center-x="159.35329" x="0" y="0" xlink:href="#g5094" id="use5216" transform="matrix(-0.80901699,0.58778526,-0.58778526,-0.80901699,1046.8622,70.361725)" width="1024" height="1024"/>
+    <use inkscape:transform-center-y="-566.66255" inkscape:transform-center-x="-7.3049764e-05" height="1024" width="1024" transform="translate(1.4369124e-4,-463.10837)" id="use5218" xlink:href="#g3157" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#g5094" id="use5220" transform="matrix(-0.80901699,0.58778526,-0.58778526,-0.80901699,1881.2475,676.57831)" width="1024" height="1024" inkscape:transform-center-x="-675.03203" inkscape:transform-center-y="-51.777089"/>
+    <use height="1024" width="1024" transform="matrix(-0.809017,-0.58778525,0.58778525,-0.809017,1124.2785,903.80812)" id="use5222" xlink:href="#g5094" y="0" x="0" inkscape:transform-center-x="-576.54622" inkscape:transform-center-y="-354.88526"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use5224" transform="matrix(0.309017,0.95105651,-0.95105651,0.309017,1308.1406,-256.66812)" width="1024" height="1024" inkscape:transform-center-x="-538.92815" inkscape:transform-center-y="-155.33118"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use6385" transform="translate(834.38546,143.10818)" width="1024" height="1024" inkscape:transform-center-x="-834.3854" inkscape:transform-center-y="39.554017"/>
+    <use height="1024" width="1024" transform="matrix(-0.809017,0.58778525,-0.58778525,-0.809017,2275.1911,676.5782)" id="use6397" xlink:href="#g3157" y="0" x="0" inkscape:transform-center-x="-1054.6068" inkscape:transform-center-y="63.999898"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use6399" transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,1823.819,117.99417)" width="1024" height="1024" inkscape:transform-center-x="-1054.6065" inkscape:transform-center-y="219.33112"/>
+    <use x="0" y="0" xlink:href="#g6401" id="use6419" transform="matrix(0.809017,0.58778525,-0.58778525,0.809017,1249.7857,73.362398)" width="1024" height="1024" inkscape:transform-center-x="-834.38543" inkscape:transform-center-y="290.88554"/>
+    <use inkscape:transform-center-y="-689.99345" inkscape:transform-center-x="-515.67872" height="1024" width="1024" transform="matrix(0.809017,-0.58778525,0.58778525,0.809017,295.84517,-305.62451)" id="use6423" xlink:href="#g6401" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#g6401" id="use6425" transform="matrix(-0.30901699,-0.95105652,0.95105652,-0.30901699,-359.37661,484.51342)" width="1024" height="1024" inkscape:transform-center-x="515.67841" inkscape:transform-center-y="-689.99372"/>
+    <use inkscape:transform-center-y="290.88516" inkscape:transform-center-x="834.38556" height="1024" width="1024" transform="matrix(-1,0,0,-1,189.61454,1351.8324)" id="use6427" xlink:href="#g6401" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#g6401" id="use6429" transform="matrix(-0.309017,0.95105651,-0.95105651,-0.309017,1184.1315,1097.727)" width="1024" height="1024" inkscape:transform-center-x="0.00020998101" inkscape:transform-center-y="897.10177"/>
+    <use height="1024" width="1024" transform="matrix(0.809017,0.58778525,0.58778525,-0.809017,539.31534,1051.2409)" id="use6439" xlink:href="#g3157" y="0" x="0" inkscape:transform-center-x="-735.89954" inkscape:transform-center-y="438.6626"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use6445" transform="matrix(-0.309017,-0.95105651,-0.95105651,0.309017,2018.5172,1466.539)" width="1024" height="1024" inkscape:transform-center-x="-932.87134" inkscape:transform-center-y="593.99409"/>
+    <use height="1024" width="1024" transform="matrix(0.80901699,-0.58778526,-0.58778526,-0.80901699,1325.0221,1653.1331)" id="use6447" xlink:href="#g3157" y="0" x="0" inkscape:transform-center-x="-932.87118" inkscape:transform-center-y="438.66269"/>
+    <use height="1024" width="1024" transform="translate(834.38539,606.21697)" id="use6449" xlink:href="#g5094" y="0" x="0" inkscape:transform-center-x="-773.51774" inkscape:transform-center-y="625.99406"/>
+    <use x="0" y="0" xlink:href="#g5094" id="use6451" transform="matrix(0.309017,0.95105651,-0.95105651,0.309017,1899.0557,-113.56003)" width="1024" height="1024" inkscape:transform-center-x="-993.73914" inkscape:transform-center-y="-51.777233"/>
+    <use inkscape:transform-center-y="825.54764" inkscape:transform-center-x="-220.22119" height="1024" width="1024" transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,989.43364,724.21069)" id="use6475" xlink:href="#g3157" y="0" x="0"/>
+    <use inkscape:transform-center-y="1044.8791" inkscape:transform-center-x="-295.45778" x="0" y="0" xlink:href="#g3157" id="use6477" transform="matrix(-0.809017,-0.58778525,0.58778525,-0.809017,927.30697,2259.3495)" width="1024" height="1024"/>
+    <use inkscape:transform-center-y="1044.8789" inkscape:transform-center-x="-98.485965" height="1024" width="1024" transform="matrix(-0.80901699,0.58778526,-0.58778526,-0.80901699,1319.0703,1657.4572)" id="use6479" xlink:href="#g3157" y="0" x="0"/>
+    <use inkscape:transform-center-y="825.5477" inkscape:transform-center-x="220.22127" x="0" y="0" xlink:href="#g3157" id="use6483" transform="matrix(-0.30901699,0.95105652,0.95105652,0.30901699,34.566392,724.21075)" width="1024" height="1024"/>
+    <use inkscape:transform-center-y="1044.8791" inkscape:transform-center-x="295.45802" height="1024" width="1024" transform="matrix(0.80901699,-0.58778526,-0.58778526,-0.80901699,96.692908,2259.3495)" id="use6485" xlink:href="#g3157" y="0" x="0"/>
+    <use inkscape:transform-center-y="1044.8789" inkscape:transform-center-x="98.486107" x="0" y="0" xlink:href="#g3157" id="use6487" transform="matrix(0.809017,0.58778525,0.58778525,-0.809017,-295.07032,1657.4572)" width="1024" height="1024"/>
+    <use inkscape:transform-center-y="929.10189" inkscape:transform-center-x="356.3256" x="0" y="0" xlink:href="#g5094" id="use6489" transform="matrix(0.30901699,0.95105652,-0.95105652,0.30901699,548.99097,867.31909)" width="1024" height="1024"/>
+    <use inkscape:transform-center-y="929.10194" inkscape:transform-center-x="-356.32526" height="1024" width="1024" transform="matrix(-0.80901699,0.58778526,-0.58778526,-0.80901699,1562.5407,1657.4573)" id="use6491" xlink:href="#g5094" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use6495" transform="matrix(-0.80901699,0.58778526,-0.58778526,-0.80901699,484.68482,1051.2408)" width="1024" height="1024" inkscape:transform-center-x="735.8995" inkscape:transform-center-y="438.66252"/>
+    <use height="1024" width="1024" transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,-994.51716,1466.5388)" id="use6497" xlink:href="#g3157" y="0" x="0" inkscape:transform-center-x="932.87143" inkscape:transform-center-y="593.99391"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use6499" transform="matrix(-0.809017,-0.58778525,0.58778525,-0.809017,-301.02203,1653.1329)" width="1024" height="1024" inkscape:transform-center-x="932.87122" inkscape:transform-center-y="438.66247"/>
+    <use height="1024" width="1024" transform="matrix(-1,0,0,1,189.61455,143.1081)" id="use6503" xlink:href="#g3157" y="0" x="0" inkscape:transform-center-x="834.3855" inkscape:transform-center-y="39.553936"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use6505" transform="matrix(0.809017,0.58778525,0.58778525,-0.809017,-1251.191,676.57787)" width="1024" height="1024" inkscape:transform-center-x="1054.6068" inkscape:transform-center-y="63.999558"/>
+    <use height="1024" width="1024" transform="matrix(-0.30901699,0.95105652,0.95105652,0.30901699,-799.8189,117.99397)" id="use6507" xlink:href="#g3157" y="0" x="0" inkscape:transform-center-x="1054.6066" inkscape:transform-center-y="219.33094"/>
+    <use height="1024" width="1024" transform="matrix(-0.80901699,0.58778526,-0.58778526,-0.80901699,212.47637,676.57786)" id="use6509" xlink:href="#g5094" y="0" x="0" inkscape:transform-center-x="993.73907" inkscape:transform-center-y="-51.777488"/>
+    <use x="0" y="0" xlink:href="#g5094" id="use6511" transform="matrix(-0.809017,-0.58778525,0.58778525,-0.809017,-225.78562,1884.687)" width="1024" height="1024" inkscape:transform-center-x="773.51788" inkscape:transform-center-y="625.99368"/>
+    <use inkscape:transform-center-y="-542.21643" inkscape:transform-center-x="614.16446" height="1024" width="1024" transform="matrix(-0.809017,-0.58778525,0.58778525,-0.809017,17.684773,672.25398)" id="use6515" xlink:href="#g3157" y="0" x="0"/>
+    <use inkscape:transform-center-y="-709.77071" inkscape:transform-center-x="834.38577" x="0" y="0" xlink:href="#g3157" id="use6517" transform="translate(-834.38569,-606.21657)" width="1024" height="1024"/>
+    <use inkscape:transform-center-y="-761.54763" inkscape:transform-center-x="735.89967" height="1024" width="1024" transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,-797.54544,110.99729)" id="use6519" xlink:href="#g3157" y="0" x="0"/>
+    <use inkscape:transform-center-y="-761.54783" inkscape:transform-center-x="295.45733" x="0" y="0" xlink:href="#g3157" id="use6523" transform="matrix(-0.309017,-0.95105651,-0.95105651,0.309017,790.18854,110.99707)" width="1024" height="1024"/>
+    <use inkscape:transform-center-y="-993.10233" inkscape:transform-center-x="417.19244" height="1024" width="1024" transform="matrix(-0.30901699,0.95105652,0.95105652,0.30901699,-162.40479,-1094.4393)" id="use6525" xlink:href="#g3157" y="0" x="0"/>
+    <use inkscape:transform-center-y="-941.32492" inkscape:transform-center-x="515.67834" x="0" y="0" xlink:href="#g3157" id="use6527" transform="matrix(-1,0,0,1,508.32174,-837.77075)" width="1024" height="1024"/>
+    <use inkscape:transform-center-y="-961.10213" inkscape:transform-center-x="257.83895" x="0" y="0" xlink:href="#g5094" id="use6529" transform="matrix(-0.809017,-0.58778525,0.58778525,-0.809017,289.89333,297.59118)" width="1024" height="1024"/>
+    <use inkscape:transform-center-y="-542.21658" inkscape:transform-center-x="834.38551" height="1024" width="1024" transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,-994.51711,254.10546)" id="use6531" xlink:href="#g5094" y="0" x="0"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use6535" transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,233.81167,110.99721)" width="1024" height="1024" inkscape:transform-center-x="-295.4574" inkscape:transform-center-y="-761.54774"/>
+    <use height="1024" width="1024" transform="matrix(0.309017,0.95105651,-0.95105651,0.309017,1186.4052,-1094.439)" id="use6537" xlink:href="#g3157" y="0" x="0" inkscape:transform-center-x="-417.19271" inkscape:transform-center-y="-993.10206"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use6539" transform="translate(515.67852,-837.77066)" width="1024" height="1024" inkscape:transform-center-x="-515.67847" inkscape:transform-center-y="-941.3248"/>
+    <use height="1024" width="1024" transform="matrix(0.80901699,-0.58778526,-0.58778526,-0.80901699,1006.3155,672.25403)" id="use6543" xlink:href="#g3157" y="0" x="0" inkscape:transform-center-x="-614.16456" inkscape:transform-center-y="-542.2164"/>
+    <use x="0" y="0" xlink:href="#g3157" id="use6545" transform="matrix(-1,0,0,1,1858.3861,-606.21637)" width="1024" height="1024" inkscape:transform-center-x="-834.38603" inkscape:transform-center-y="-709.77051"/>
+    <use height="1024" width="1024" transform="matrix(-0.309017,-0.95105651,-0.95105651,0.309017,1821.5456,110.99735)" id="use6547" xlink:href="#g3157" y="0" x="0" inkscape:transform-center-x="-735.89974" inkscape:transform-center-y="-761.54759"/>
+    <use height="1024" width="1024" transform="matrix(0.30901699,-0.95105652,0.95105652,0.30901699,674.25424,254.10575)" id="use6549" xlink:href="#g5094" y="0" x="0" inkscape:transform-center-x="-834.38583" inkscape:transform-center-y="-542.21632"/>
+    <use x="0" y="0" xlink:href="#g5094" id="use6551" transform="translate(318.70697,-980.87898)" width="1024" height="1024" inkscape:transform-center-x="-257.83932" inkscape:transform-center-y="-961.1019"/>
+    <use inkscape:transform-center-x="-834.3857" x="0" y="0" xlink:href="#g3441" inkscape:transform-center-y="-271.1079" id="use6567" transform="matrix(0.80901699,0.58778526,-0.58778526,0.80901699,734.10733,-301.29982)" width="1024" height="1024"/>
+    <use height="1024" width="1024" transform="matrix(-0.30901699,0.95105652,-0.95105652,-0.30901699,1381.1031,491.51088)" id="use6577" inkscape:transform-center-y="709.77103" xlink:href="#g3441" y="0" x="0" inkscape:transform-center-x="-515.67828"/>
+    <use inkscape:transform-center-x="515.67891" x="0" y="0" xlink:href="#g3441" inkscape:transform-center-y="709.77056" id="use6579" transform="matrix(-1,0,0,-1,827.02798,1351.8324)" width="1024" height="1024"/>
+    <use height="1024" width="1024" transform="matrix(-0.309017,-0.95105651,0.95105651,-0.309017,-162.40499,1090.7296)" id="use6581" inkscape:transform-center-y="-271.10868" xlink:href="#g3441" y="0" x="0" inkscape:transform-center-x="834.3854"/>
+    <use inkscape:transform-center-x="-0.00043649395" x="0" y="0" xlink:href="#g3441" inkscape:transform-center-y="-877.32484" id="use6583" transform="matrix(0.80901699,-0.58778526,0.58778526,0.80901699,-219.8331,69.037754)" width="1024" height="1024"/>
+  </g>
+</svg>
